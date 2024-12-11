@@ -51,8 +51,8 @@ Welcome to my GitHub profile! I'm a Software Engineer with over 12 years of expe
 
 ### 🌐 Connect with Me
 
-- LinkedIn: [https://www.linkedin.com/in/shibu-vs-b4612a55/](#)
-- Portfolio: [https://shibuvs.github.io/](#)
+- LinkedIn: [https://www.linkedin.com/in/shibu-vs-b4612a55/](https://www.linkedin.com/in/shibu-vs-b4612a55/)
+- Portfolio: [https://shibuvs.github.io/](https://shibuvs.github.io/)
 - Email: [shibuvs89@gmail.com](mailto:your.shibuvs89@gmail.com)
 
 ---
